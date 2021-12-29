@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aedc87cc.css",
+    "main.js": "/static/js/main.1f8b287d.js",
+    "static/media/Metropolis-ExtraBoldItalic.otf": "/static/media/Metropolis-ExtraBoldItalic.a634192ed7046f830104.otf",
+    "static/media/Metropolis-MediumItalic.otf": "/static/media/Metropolis-MediumItalic.9f90cbf85282400da968.otf",
+    "static/media/Metropolis-BoldItalic.otf": "/static/media/Metropolis-BoldItalic.1eb34a2ff06aec00a72c.otf",
+    "static/media/Metropolis-BlackItalic.otf": "/static/media/Metropolis-BlackItalic.c6d3c86737b6a09f8318.otf",
+    "static/media/Metropolis-ExtraLightItalic.otf": "/static/media/Metropolis-ExtraLightItalic.a86eca7fa8f92bdb092d.otf",
+    "static/media/Metropolis-SemiBoldItalic.otf": "/static/media/Metropolis-SemiBoldItalic.c9fc7e1f0de5933ad2ba.otf",
+    "static/media/Metropolis-RegularItalic.otf": "/static/media/Metropolis-RegularItalic.6f16ffe9127c905cc77d.otf",
+    "static/media/Metropolis-LightItalic.otf": "/static/media/Metropolis-LightItalic.7aa2b6e18c73c83faefc.otf",
+    "static/media/Metropolis-ThinItalic.otf": "/static/media/Metropolis-ThinItalic.4f80c943cd36efc94233.otf",
+    "static/media/Metropolis-ExtraBold.otf": "/static/media/Metropolis-ExtraBold.f179dd5fc7c0864a964b.otf",
+    "static/media/Metropolis-Black.otf": "/static/media/Metropolis-Black.1510951eb17eaadbe995.otf",
+    "static/media/Metropolis-Bold.otf": "/static/media/Metropolis-Bold.c5e04fafcff6fc79cd76.otf",
+    "static/media/Metropolis-SemiBold.otf": "/static/media/Metropolis-SemiBold.5e856013947c22fbcdf4.otf",
+    "static/media/Metropolis-Medium.otf": "/static/media/Metropolis-Medium.cdcce86268fb4a504ff5.otf",
+    "static/media/Metropolis-Light.otf": "/static/media/Metropolis-Light.5813789eac597edf6ef4.otf",
+    "static/media/Metropolis-Regular.otf": "/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
+    "static/media/Metropolis-ExtraLight.otf": "/static/media/Metropolis-ExtraLight.d1784bd894f8e478ab9f.otf",
+    "static/media/Metropolis-Thin.otf": "/static/media/Metropolis-Thin.90c6171184f230bfa07a.otf",
+    "index.html": "/index.html",
+    "static/media/bg-waves.svg": "/static/media/bg-waves.f2c7d70c6d84557d2fe7.svg",
+    "static/media/bg-angles.svg": "/static/media/bg-angles.2b38307dfd166e55494a.svg",
+    "main.aedc87cc.css.map": "/static/css/main.aedc87cc.css.map",
+    "main.1f8b287d.js.map": "/static/js/main.1f8b287d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aedc87cc.css",
+    "static/js/main.1f8b287d.js"
+  ]
+}
